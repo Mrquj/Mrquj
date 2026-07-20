@@ -10,8 +10,8 @@
   <a href="mailto:uuavv@qq.com">
     <img src="https://img.shields.io/badge/Email-uuavv%40qq.com-EA4335?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mrquj.github.io/dieday.github.io/">
-    <img src="https://img.shields.io/badge/Blog-mrquj.github.io%2Fdieday.github.io-00C7B7?logo=dev.to&logoColor=white" />
+  <a href="https://mrquj.github.io/">
+    <img src="https://img.shields.io/badge/Blog-mrquj.github.io-00C7B7?logo=dev.to&logoColor=white" />
   </a>
   <a href="https://github.com/Mrquj">
     <img src="https://img.shields.io/badge/GitHub-Mrquj-181717?logo=github&logoColor=white" />
@@ -26,7 +26,7 @@
 - 🔭 热衷于 **效率工具**、**自动化工作流**、**Notion 生态** 和 **AI 应用** 开发。
 - 🌱 正在深入探索 **TypeScript / Node.js / Python** 与 **MCP / AI Agent** 的结合。
 - 💡 相信代码应该服务于生活，喜欢把重复劳动交给脚本和自动化。
-- 📝 个人博客：<https://mrquj.github.io/dieday.github.io/>
+- 📝 个人博客：<https://mrquj.github.io/>
 
 ---
 
@@ -63,7 +63,7 @@
 | [atimelogger-mcp-notion](https://github.com/Mrquj/atimelogger-mcp-notion) | ATimeLogger MCP 与 Notion 集成 | TypeScript |
 | [blue-notion-calendar-printer](https://github.com/Mrquj/blue-notion-calendar-printer) | 每日定时打印 Notion Calendar 任务 | Python |
 | [-Answer-Sheet-Recognition-and-Grading-](https://github.com/Mrquj/-Answer-Sheet-Recognition-and-Grading-) | OpenCV 答题卡自动判卷系统 | Python |
-| [dieday.github.io](https://github.com/Mrquj/dieday.github.io) | 个人博客 | PHP |
+| [Mrquj.github.io](https://github.com/Mrquj/Mrquj.github.io) | 个人博客 | Jekyll |
 
 ---
 
@@ -92,7 +92,7 @@
 ## 💬 与我联系
 
 - 📧 邮箱：[uuavv@qq.com](mailto:uuavv@qq.com)
-- 📝 博客：<https://mrquj.github.io/dieday.github.io/>
+- 📝 博客：<https://mrquj.github.io/>
 - 🐙 GitHub：[https://github.com/Mrquj](https://github.com/Mrquj)
 
 <p align="center">
