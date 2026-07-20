@@ -10,8 +10,8 @@
   <a href="mailto:uuavv@qq.com">
     <img src="https://img.shields.io/badge/Email-uuavv%40qq.com-EA4335?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://Jimuu.github.io/">
-    <img src="https://img.shields.io/badge/Blog-Jimuu.github.io-00C7B7?logo=dev.to&logoColor=white" />
+  <a href="https://mrquj.github.io/dieday.github.io/">
+    <img src="https://img.shields.io/badge/Blog-mrquj.github.io%2Fdieday.github.io-00C7B7?logo=dev.to&logoColor=white" />
   </a>
   <a href="https://github.com/Mrquj">
     <img src="https://img.shields.io/badge/GitHub-Mrquj-181717?logo=github&logoColor=white" />
@@ -26,7 +26,7 @@
 - 🔭 热衷于 **效率工具**、**自动化工作流**、**Notion 生态** 和 **AI 应用** 开发。
 - 🌱 正在深入探索 **TypeScript / Node.js / Python** 与 **MCP / AI Agent** 的结合。
 - 💡 相信代码应该服务于生活，喜欢把重复劳动交给脚本和自动化。
-- 📝 个人博客：<https://Jimuu.github.io/>
+- 📝 个人博客：<https://mrquj.github.io/dieday.github.io/>
 
 ---
 
@@ -92,7 +92,7 @@
 ## 💬 与我联系
 
 - 📧 邮箱：[uuavv@qq.com](mailto:uuavv@qq.com)
-- 📝 博客：<https://Jimuu.github.io/>
+- 📝 博客：<https://mrquj.github.io/dieday.github.io/>
 - 🐙 GitHub：[https://github.com/Mrquj](https://github.com/Mrquj)
 
 <p align="center">
