@@ -1,7 +1,7 @@
 <!-- 动态打字横幅 -->
 <p align="center">
   <a href="https://github.com/Mrquj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jim+uu+%F0%9F%91%8B;%E4%BA%91%E5%8D%97%E4%B8%80%E5%90%8D%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88;Notion+%2F+TypeScript+%2F+Python+%2F+Automation;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jim+uu+%F0%9F%91%8B;%E4%BA%91%E5%8D%97%E4[...]"/>
   </a>
 </p>
 
@@ -34,6 +34,9 @@
 
 ### 主要语言
 <p>
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
